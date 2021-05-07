@@ -30,7 +30,7 @@ body {
     font-weight: bold;
     color: rgba(255, 255, 255, .2);
     cursor: pointer;
-    transition: 1.3s;
+    transition: 1.7s;
 }
 
 .hover-slider-nav__item--active {
@@ -55,7 +55,7 @@ body {
     width: 104vw;
     height: 104vh;
     opacity: 0;
-    transition: 1.3s linear;
+    transition: 1.7s linear;
     transform: translateY(-2vh);
 }
 
