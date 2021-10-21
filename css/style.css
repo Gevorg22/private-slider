@@ -28,13 +28,13 @@ body {
     padding: 2vh;
     font-size: 20px;
     font-weight: bold;
-    color: rgba(255, 255, 255, .2);
+    color: #c4c4c49e;
     cursor: pointer;
     transition: 1.7s;
 }
 
 .hover-slider-nav__item--active {
-    color: rgba(255, 255, 255, .4);
+    color: rgb(255 255 255);
 }
 
 .hover-slider {
